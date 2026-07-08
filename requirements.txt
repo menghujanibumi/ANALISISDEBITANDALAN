@@ -4,5 +4,3 @@ numpy>=1.25.0
 scipy>=1.11.0
 plotly>=5.18.0
 openpyxl>=3.1.0
-earthengine-api>=0.1.300
-geemap>=0.20.0
